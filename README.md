@@ -1,12 +1,6 @@
-<div align="center">
-  <a href="https://github.com/VitoVan/calm" target="_blank">
-    <img width="160" src="https://github.com/VitoVan/calm/raw/main/build/app.png">
-  </a>
-</div>
+# ![Made with CALM](./images/made-with-calm-no-margin.png)
 
-# Made with [CALM](https://github.com/VitoVan/calm)
-
-> A curated list of CALM paintings, applications, softwares, tools and shiny stuff.
+> A curated list of [CALM](https://github.com/VitoVan/calm) paintings, applications, softwares, tools and shiny stuff.
 
 > *Items marked with 🖱 are interactive. Items marked with 🎵 are with sound effects*.
 
