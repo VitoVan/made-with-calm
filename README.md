@@ -4,6 +4,12 @@
 
 > *Items marked with 🖱 are interactive. Items marked with 🎵 are with sound effects*.
 
+Markdown / HTML Badge: 
+
+```md
+<a href="https://github.com/VitoVan/calm"><img src="https://github.com/VitoVan/made-with-calm/raw/main/images/made-with-calm-no-margin.png" width="240px" /></a>
+```
+
 ## Table of Contents
 
 - [Paintings](#paintings)
