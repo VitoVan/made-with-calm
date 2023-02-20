@@ -25,3 +25,4 @@ Markdown / HTML Badge:
 ## Tools
 
 - [Focalizzare](https://vitovan.com/focalizzare/) - Pomodoro Timer. Focalizzare with Pomodoro Technique. 🖱 🎵
+- [Score Board](https://github.com/VitoVan/scoreboard) - A board to record scores. 🖱
