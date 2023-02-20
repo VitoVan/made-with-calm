@@ -1,4 +1,4 @@
-# ![Made with CALM](./images/made-with-calm-no-margin.png)
+# [![Made with CALM](./images/made-with-calm-no-margin.png)](https://github.com/VitoVan/calm)
 
 > A curated list of [CALM](https://github.com/VitoVan/calm) paintings, applications, softwares, tools and shiny stuff.
 
