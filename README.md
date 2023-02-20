@@ -7,7 +7,7 @@
 Markdown / HTML Badge: 
 
 ```md
-<a href="https://github.com/VitoVan/calm"><img src="https://github.com/VitoVan/made-with-calm/raw/main/images/made-with-calm-no-margin.png" width="240px" /></a>
+<a href="https://github.com/VitoVan/made-with-calm"><img src="https://github.com/VitoVan/made-with-calm/raw/main/images/made-with-calm-no-margin.png" width="240px" /></a>
 ```
 
 ## Table of Contents
