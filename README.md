@@ -14,18 +14,34 @@
 ## Paintings
 
 - [Fan](https://github.com/VitoVan/calm/tree/main/docs/examples/fan) - A fan, The blue circle, is the switch. 🖱
+
+  <img height="300" src="https://github.com/VitoVan/calm/raw/main/docs/examples/fan/canvas.png"/>
+
 - [Mondrian](https://github.com/VitoVan/calm/tree/main/docs/examples/mondrian) - The random Piet Mondrian, please click the canvas. 🖱
+
+  <img height="300" src="https://github.com/VitoVan/calm/raw/main/docs/examples/mondrian/canvas.png"/>
+  
 - [Meditator](https://github.com/VitoVan/calm/tree/main/docs/examples/meditator) - A meditating person, Have you touched the red dot? 🖱 🎵
 
+  <img height="300" src="https://github.com/VitoVan/calm/raw/main/docs/examples/meditator/canvas.png"/>
+  
 ## Tools
 
 - [Focalizzare](https://vitovan.com/focalizzare/) - Pomodoro Timer. Focalizzare with Pomodoro Technique. 🖱 🎵
+
+  <img height="300" src="https://github.com/VitoVan/focalizzare/raw/main/images/25-minutes.png"/>
+  <img height="300" src="https://github.com/VitoVan/focalizzare/raw/main/images/24-minutes.png"/>
+  
 - [Score Board](https://github.com/VitoVan/scoreboard) - A board to record scores. 🖱
+
+  <img height="300" src="https://github.com/VitoVan/scoreboard/raw/main/canvas.png"/>
 
 ## Games
 
 - [Pelusica](https://github.com/VitoVan/pelusica) - A Game: the survival of a musical ball ⌨️ 🎵
 
+  <img height="300" src="https://github.com/VitoVan/pelusica/raw/main/canvas.png"/>
+  
 Markdown / HTML Badge: 
 
 ```md
