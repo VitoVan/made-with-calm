@@ -13,9 +13,9 @@
 
 ## Paintings
 
-- [Fan](https://github.com/VitoVan/calm/tree/main/docs/src/examples/fan) - A fan, The blue circle, is the switch. 🖱
-- [Mondrian](https://github.com/VitoVan/calm/tree/main/docs/src/examples/ondrian) - The random Piet Mondrian, please click the canvas. 🖱
-- [Meditator](https://github.com/VitoVan/calm/tree/main/docs/src/examples/meditator) - A meditating person, Have you touched the red dot? 🖱 🎵
+- [Fan](https://github.com/VitoVan/calm/tree/main/docs/examples/fan) - A fan, The blue circle, is the switch. 🖱
+- [Mondrian](https://github.com/VitoVan/calm/tree/main/docs/examples/ondrian) - The random Piet Mondrian, please click the canvas. 🖱
+- [Meditator](https://github.com/VitoVan/calm/tree/main/docs/examples/meditator) - A meditating person, Have you touched the red dot? 🖱 🎵
 
 ## Tools
 
