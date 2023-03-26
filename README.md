@@ -40,7 +40,7 @@
 
 - [Pelusica](https://github.com/VitoVan/pelusica) - A Game: the survival of a musical ball ⌨️ 🎵
 
-  <img height="300" src="https://github.com/VitoVan/pelusica/raw/main/canvas.png"/>
+  <img height="300" src="https://github.com/VitoVan/pelusica/raw/main/images/pelusica.png"/><img height="300" src="https://github.com/VitoVan/pelusica/raw/main/images/pelusica-dark.png"/>
   
 Markdown / HTML Badge: 
 
