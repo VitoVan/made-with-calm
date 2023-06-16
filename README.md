@@ -1,8 +1,14 @@
 # [![Made with CALM](./images/made-with-calm-no-margin.png)](https://github.com/VitoVan/calm)
 
-> A curated list of [CALM](https://github.com/VitoVan/calm) paintings, applications, softwares, tools and shiny stuff.
->
-> *Items marked with 🖱 / ⌨️ are interactive. Items marked with 🎵 are with sound effects*.
+A curated list of [CALM](https://github.com/VitoVan/calm) paintings, applications, softwares, tools and shiny stuff.
+
+🖱 / ⌨️ means it is interactive; 
+
+🎵 means it has sound effects; 
+
+🌐 means it has web version; 
+
+📱 means it has also been tested on mobile browser.
 
 ## Table of Contents
 
@@ -13,15 +19,15 @@
 
 ## Paintings
 
-- [Fan](https://github.com/VitoVan/calm/tree/main/docs/examples/fan) - A fan, The blue circle, is the switch. 🖱
+- [Fan](https://github.com/VitoVan/calm/tree/main/docs/examples/fan) - A fan, The blue circle, is the switch. 🖱 🌐
 
   <img height="300" src="https://github.com/VitoVan/calm/raw/main/docs/examples/fan/canvas.png"/>
 
-- [Mondrian](https://github.com/VitoVan/calm/tree/main/docs/examples/mondrian) - The random Piet Mondrian, please click the canvas. 🖱
+- [Mondrian](https://github.com/VitoVan/calm/tree/main/docs/examples/mondrian) - The random Piet Mondrian, please click the canvas. 🖱 🌐
 
   <img height="300" src="https://github.com/VitoVan/calm/raw/main/docs/examples/mondrian/canvas.png"/>
   
-- [Meditator](https://github.com/VitoVan/calm/tree/main/docs/examples/meditator) - A meditating person, Have you touched the red dot? 🖱 🎵
+- [Meditator](https://github.com/VitoVan/calm/tree/main/docs/examples/meditator) - A meditating person, Have you touched the red dot? 🖱 🎵 🌐
 
   <img height="300" src="https://github.com/VitoVan/calm/raw/main/docs/examples/meditator/canvas.png"/>
   
@@ -38,9 +44,13 @@
 
 ## Games
 
-- [Pelúsica](https://github.com/VitoVan/pelusica) - A Game: the survival of a musical ball ⌨️ 🎵
+- [Pelúsica](https://github.com/VitoVan/pelusica) - A Game: the survival of a musical ball. ⌨️ 🎵 🌐 📱
 
   <img height="300" src="https://github.com/VitoVan/pelusica/raw/main/images/pelusica.png"/><img height="300" src="https://github.com/VitoVan/pelusica/raw/main/images/pelusica-dark.png"/>
+  
+- [The Maze and Lost Cat](https://vitovan.itch.io/maze) - The Owl and the Pussy-cat went to sea. ⌨️ 🎵 🌐 📱
+
+  <img height="300" src="https://github.com/VitoVan/lisp-game-jam-2023/raw/main/Spring/screenshots/spring-1.png"/><img height="300" src="https://github.com/VitoVan/lisp-game-jam-2023/raw/main/Spring/screenshots/spring-2.png"/>
   
 Markdown / HTML Badge: 
 
