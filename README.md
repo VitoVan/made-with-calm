@@ -19,17 +19,11 @@ A curated list of [CALM](https://github.com/VitoVan/calm) paintings, application
 
 ## Paintings
 
-- [Fan](https://github.com/VitoVan/calm/tree/main/docs/examples/fan) - A fan, The blue circle, is the switch. 🖱 🌐
+- [CALM Examples](https://github.com/VitoVan/calm/releases/tag/examples-0.1.3) - Fan, Mondrian and Meditator 🖱 🎵 🌐
 
-  <img height="300" src="https://github.com/VitoVan/calm/raw/main/docs/examples/fan/canvas.png"/>
-
-- [Mondrian](https://github.com/VitoVan/calm/tree/main/docs/examples/mondrian) - The random Piet Mondrian, please click the canvas. 🖱 🌐
-
-  <img height="300" src="https://github.com/VitoVan/calm/raw/main/docs/examples/mondrian/canvas.png"/>
-  
-- [Meditator](https://github.com/VitoVan/calm/tree/main/docs/examples/meditator) - A meditating person, Have you touched the red dot? 🖱 🎵 🌐
-
-  <img height="300" src="https://github.com/VitoVan/calm/raw/main/docs/examples/meditator/canvas.png"/>
+  <img height="200" src="https://github.com/VitoVan/calm/raw/main/docs/examples/fan/canvas.png"/>
+  <img height="200" src="https://github.com/VitoVan/calm/raw/main/docs/examples/mondrian/canvas.png"/>
+  <img height="200" src="https://github.com/VitoVan/calm/raw/main/docs/examples/meditator/canvas.png"/>
   
 ## Tools
 
