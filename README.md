@@ -2,13 +2,13 @@
 
 A curated list of [CALM](https://github.com/VitoVan/calm) paintings, applications, softwares, tools and shiny stuff.
 
-🖱 / ⌨️ means it is interactive; 
+| Symbol | Meaning                              |
+| ------ | ------------------------------------ |
+| 🖱 / ⌨️  | mouse / keyboard interact            |
+| 🎵      | sound effects                        |
+| 🌐      | web version available                |
+| 📱      | web version tested on mobile browser |
 
-🎵 means it has sound effects; 
-
-🌐 means it has web version; 
-
-📱 means it has also been tested on mobile browser.
 
 ## Table of Contents
 
